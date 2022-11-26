@@ -1,0 +1,11 @@
+Admin Account:
+Email: admin@admin.com
+Password: password
+
+Doctor Account:
+Email: jude@gmail.com
+Password: password
+
+User Account:
+Email: nielmar@gmail.com
+Password: password
